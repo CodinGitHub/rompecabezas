@@ -11,3 +11,4 @@ let ObjFicha5 = new Ficha(100,100);
 let ObjFicha6 = new Ficha(100,200);
 let ObjFicha7 = new Ficha(200,0);
 let ObjFicha8 = new Ficha(200,100);
+
