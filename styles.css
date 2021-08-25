@@ -1,0 +1,65 @@
+.board{
+  width: 300px;
+  height: 300px;
+  border: 1px solid palevioletred;
+  position: relative;
+  margin: 0 auto;
+}
+.tile{
+  position: absolute;
+  background-color: cadetblue; 
+  border-radius: 4px;
+  border: 1px solid black;
+  text-align: center;
+  width: 99px;
+  height: 99px;
+  font-size: 45px;
+  padding-top: 20px;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor:pointer; cursor: hand;
+}
+.empytile{
+  position: absolute;
+  background-color: palevioletred;
+  border-radius: 4px;
+  border: 1px solid black; 
+  width: 97px;
+  height: 97px;
+}
+.uno{
+  top: 0;
+  left: 0;
+}
+.dos{
+  top: 0;
+  left: 100px;
+}
+.tres{
+  top: 0;
+  left: 200px;
+}
+.cuatro{
+  top: 100px;
+  left: 0;
+}
+.cinco{
+  top: 100px;
+  left: 100px;
+}
+.seis{
+  top: 100px;
+  left: 200px;
+}
+.siete{
+  top: 200px;
+  left: 0;
+}
+.ocho{
+  top: 200px;
+  left: 100px;
+}
+.nueve{
+  top: 200px;
+  left: 200px;
+}
