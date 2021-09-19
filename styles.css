@@ -1,7 +1,7 @@
 .board{
   width: 300px;
   height: 300px;
-  border: 10px solid palevioletred;
+  border: 5px solid palevioletred;
   position: relative;
   margin: 0 auto;
 }
